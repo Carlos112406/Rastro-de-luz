@@ -36,3 +36,37 @@ Edicion de usuarios registrados
 Configuracion del cronometro de subasta
 
 <img width="1919" height="831" alt="admin 9" src="https://github.com/user-attachments/assets/c02b284f-6acb-424c-8ff8-34a21685f167" />
+
+
+
+-Usuarios
+
+
+Acceso para usuarios
+
+![WhatsApp Image 2025-07-16 at 10 02 36 PM](https://github.com/user-attachments/assets/1eb86785-8ad7-4ad5-9e60-289693b8ec92)
+
+
+Galeria para usuarios y Varias fotos de cada obra
+
+![WhatsApp Image 2025-07-16 at 10 02 35 PM](https://github.com/user-attachments/assets/8434931c-d6b4-4d94-9bbe-e4c51be849ff)
+
+
+Resultado de la subasta
+
+![WhatsApp Image 2025-07-16 at 10 02 35 PM (2)](https://github.com/user-attachments/assets/c893c277-f945-41f3-8792-c57b3b17495f)
+
+
+resultado de la subasta
+
+
+![WhatsApp Image 2025-07-16 at 10 02 36 PM (1)](https://github.com/user-attachments/assets/95b52ce1-c205-48e9-a339-a946f586ee09)
+
+
+Seleccion de banco
+
+![WhatsApp Image 2025-07-16 at 10 02 36 PM (2)](https://github.com/user-attachments/assets/22d08614-6cd5-434b-a2d5-c80e8ea03dd8)
+
+Redireccion hacia el banco elegido
+
+![WhatsApp Image 2025-07-16 at 10 02 37 PM](https://github.com/user-attachments/assets/21a6f4c5-ced2-4f7b-bd47-be87d1e955c5)
