@@ -57,11 +57,6 @@ Resultado de la subasta
 ![WhatsApp Image 2025-07-16 at 10 02 35 PM (2)](https://github.com/user-attachments/assets/c893c277-f945-41f3-8792-c57b3b17495f)
 
 
-Seleccion de metodo de pago
-
-
-![WhatsApp Image 2025-07-16 at 10 02 36 PM (1)](https://github.com/user-attachments/assets/95b52ce1-c205-48e9-a339-a946f586ee09)
-
 
 Seleccion de banco
 
